@@ -1,6 +1,5 @@
-<p align = "center">
-  <b> Movie Trailer Project</b><br>
-</p>
+
+## Movie Trailer Project
 
 ![title](https://github.com/frnky4fngrs/Movie_Trailer/blob/master/Movie_Screen.png)
 

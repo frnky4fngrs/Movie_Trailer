@@ -34,8 +34,7 @@ last_starfighter = media.Movie(
 
 #make a list of my movies to pass to web page generator
 my_movies = [john_wick, blade_runner, christmas_story,
-             last_starfighter, guardians_of_the_galaxy, secret_of_my_success
-             ]
+             last_starfighter, guardians_of_the_galaxy, secret_of_my_success]
 
 #actually generate web page
 fresh_tomatoes.open_movies_page(my_movies)
